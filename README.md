@@ -78,7 +78,7 @@ Focused on usability, iterative delivery, and real-world workflows.
 
 📧 **aldosimone@live.com**  
 🔗 Portfolio: https://aldosimone99.github.io  
-🔗 LinkedIn: [*(add link)*](https://www.linkedin.com/in/aldosimone-di-rosa-b5a55716b/)
+🔗 LinkedIn: https://www.linkedin.com/in/aldosimone-di-rosa-b5a55716b/
 
 ---
 
